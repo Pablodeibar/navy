@@ -19,7 +19,7 @@ What are the rules:
 During this project we only had the right to some functions that are here.
 
 
-![Alt text](image/auth.png?raw=true "Title")
+![Alt text](image/auth.jpg?raw=true "Title")
 
 
 Here is a typical player's view
