@@ -5,6 +5,7 @@
 ## Makefile
 ##
 
+
 SRC			=	source/navy.c					\
 				source/infos.c					\
 				source/player_one.c				\
